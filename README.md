@@ -22,7 +22,7 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 
 | Home Screen               | Quiz Screen              | Score History Screen      |
 |---------------------------|--------------------------|----------------------------|
-| ![Home](assets/screenshot/Home.jpg) | ![Quiz](assets/screenshot/Questions.jpg) | ![Scores](assets/screenshot/Scores.png) |
+| ![Home](assets/screenshot/Home.jpg) | ![Quiz](assets/screenshot/Questions.jpg) | ![Scores](assets/screenshot/Score.jpg) |
 
 ---
 
@@ -40,13 +40,6 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 ### Prerequisites:
 - Flutter SDK installed
 - Android Studio or VS Code with Flutter extensions
-
-### Steps:
-
-```bash
-git clone https://github.com/your-username/quiz_app.git
-cd quiz_app
-flutter pub get
-flutter run
-
+  
+## Developed By Syed Afseh Ehsani
 
