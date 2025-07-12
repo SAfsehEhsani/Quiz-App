@@ -1,16 +1,53 @@
 # quizz_app
 
 A new Flutter project.
+# APK Link : https://drive.google.com/file/d/17S2yXUljz909cwfzJnu4wnI5_TQoFuNg/view?usp=sharing
+# 🧠 Flutter Quiz App
 
-## Getting Started
+A simple and elegant quiz app built using **Flutter** that fetches trivia questions from an API and stores user scores locally using SQLite.
 
-This project is a starting point for a Flutter application.
+![Quiz App Screenshot](assets/screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧾 Fetches 5 random quiz questions from [Open Trivia DB](https://opentdb.com)
+- ✅ Multiple choice answers with real-time feedback
+- 📊 Score saved locally using SQLite
+- 📋 Score history screen
+- 🎨 Beautiful, responsive UI with custom icon
+
+---
+
+## 🚀 Screens
+
+| Quiz Home Screen        | Questions UI          | Score History |
+|-------------------------|------------------------|----------------|
+| ![Home](assets/screenshot.png) | *(Add more screenshots if needed)* | *(Add here too)* |
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** 🐦
+- `http` for API calls
+- `sqflite` + `path_provider` for local database
+- `flutter_launcher_icons` for app icon
+
+---
+
+## 📦 Installation
+
+### Prerequisites:
+- Flutter SDK installed
+- Android Studio or VS Code with Flutter extensions
+
+### Steps:
+
+```bash
+git clone https://github.com/your-username/quiz_app.git
+cd quiz_app
+flutter pub get
+flutter run
+
