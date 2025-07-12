@@ -2,10 +2,10 @@
 
 A simple and elegant quiz app built using **Flutter** that fetches trivia questions from an API and stores user scores locally using SQLite.
 
-# APK Link : https://drive.google.com/file/d/17S2yXUljz909cwfzJnu4wnI5_TQoFuNg/view?usp=sharing
+ APK Link : https://drive.google.com/file/d/17S2yXUljz909cwfzJnu4wnI5_TQoFuNg/view?usp=sharing
 
 
-![Quiz App Screenshot](assets/screenshot/Home.jpg)
+![Quiz App](assets/icon.jpg)
 
 
 ## ✨ Features
