@@ -7,7 +7,6 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 
 ![Quiz App Screenshot](assets/screenshot/Home.jpg)
 
----
 
 ## ✨ Features
 
@@ -19,11 +18,12 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 
 ---
 
-## 🚀 Screens
+## 🖼 Screenshots
 
-| Quiz Home Screen        | Questions UI          | Score History |
-|-------------------------|------------------------|----------------|
-| ![Home](assets/screenshot/Home.jpg) | ![Quiz](assets/screenshot/Questions.png) | ![Scores](assets/screenshot/Score.png) |
+| Home Screen               | Quiz Screen              | Score History Screen      |
+|---------------------------|--------------------------|----------------------------|
+| ![Home](assets/screenshot/Home.png) | ![Quiz](assets/screenshot/Questions.png) | ![Scores](assets/screenshot/Scores.png) |
+
 ---
 
 ## 🛠 Tech Stack
@@ -48,4 +48,5 @@ git clone https://github.com/your-username/quiz_app.git
 cd quiz_app
 flutter pub get
 flutter run
+
 
