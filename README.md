@@ -6,7 +6,7 @@ A new Flutter project.
 
 A simple and elegant quiz app built using **Flutter** that fetches trivia questions from an API and stores user scores locally using SQLite.
 
-![Quiz App Screenshot](assets/screenshot.png)
+![Quiz App Screenshot](assets/screenshot)
 
 ---
 
