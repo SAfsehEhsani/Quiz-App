@@ -1,10 +1,9 @@
-# quizz_app
-
-A new Flutter project.
-# APK Link : https://drive.google.com/file/d/17S2yXUljz909cwfzJnu4wnI5_TQoFuNg/view?usp=sharing
 # 🧠 Flutter Quiz App
 
 A simple and elegant quiz app built using **Flutter** that fetches trivia questions from an API and stores user scores locally using SQLite.
+
+# APK Link : https://drive.google.com/file/d/17S2yXUljz909cwfzJnu4wnI5_TQoFuNg/view?usp=sharing
+
 
 ![Quiz App Screenshot](assets/screenshot/Home.jpg)
 
@@ -24,7 +23,7 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 
 | Quiz Home Screen        | Questions UI          | Score History |
 |-------------------------|------------------------|----------------|
-| ![Home](assets/screenshot.png) | *(Add more screenshots if needed)* | *(Add here too)* |
+| ![Home](assets/screenshot/Home.jpg) | (assets/screenshot/Questions.jpg) | (assets/screenshot/Score.jpg) |
 
 ---
 
