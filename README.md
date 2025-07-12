@@ -23,8 +23,7 @@ A simple and elegant quiz app built using **Flutter** that fetches trivia questi
 
 | Quiz Home Screen        | Questions UI          | Score History |
 |-------------------------|------------------------|----------------|
-| ![Home](assets/screenshot/Home.jpg) | (assets/screenshot/Questions.jpg) | (assets/screenshot/Score.jpg) |
-
+| ![Home](assets/screenshot/Home.jpg) | ![Quiz](assets/screenshot/Questions.png) | ![Scores](assets/screenshot/Score.png) |
 ---
 
 ## 🛠 Tech Stack
